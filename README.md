@@ -1,1 +1,1 @@
-"Aceasta este o modificare facuta de Elev A." 
+Aceasta este o modificare făcută de Elev A și Elev B.
